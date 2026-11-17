@@ -5,3 +5,8 @@ Git :
 Vs Code : 
 Flowchart : 
 MLOps Tool : 
+
+#Git commands
+'''bash
+
+cd 
